@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f41fc1e9-4b1e-4b78-a061-6dc5720060e3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csvpredictor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/csvpredictor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gender_predictor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding>
+                <element signature="e#260#3371#0" expanded="false" />
+                <element signature="e#288#343#0" expanded="false" />
+                <element signature="e#402#686#0" expanded="false" />
+                <element signature="e#402#520#1" expanded="false" />
+                <element signature="e#586#660#0" expanded="false" />
+                <element signature="e#748#1379#0" expanded="false" />
+                <element signature="e#748#836#0" expanded="false" />
+                <element signature="e#1005#1061#0" expanded="false" />
+                <element signature="e#1417#1647#0" expanded="false" />
+                <element signature="e#1486#1647#0" expanded="false" />
+                <element signature="e#1507#1646#0" expanded="false" />
+                <element signature="e#1736#2331#0" expanded="false" />
+                <element signature="e#1964#2032#0" expanded="false" />
+                <element signature="e#2391#2671#0" expanded="false" />
+                <element signature="e#2733#2903#0" expanded="false" />
+                <element signature="e#2940#3173#0" expanded="false" />
+                <element signature="e#3477#3771#0" expanded="false" />
+                <element signature="e#3828#4148#0" expanded="false" />
+                <element signature="e#4201#4314#0" expanded="false" />
+                <element signature="e#5552#5782#0" expanded="false" />
+                <element signature="e#5822#5984#0" expanded="false" />
+                <element signature="e#6110#6283#0" expanded="false" />
+                <element signature="e#6384#6523#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Mika</find>
+      <find>&quot;Mika&quot;</find>
+      <find>Toni</find>
+      <find>on'</find>
+      <find>Mia</find>
+      <find>'M</find>
+      <find>Mm</find>
+      <find>maria</find>
+      <find>Maria'</find>
+      <find>Maria</find>
+      <find>'Maria</find>
+      <find>] if</find>
+      <find>random_state</find>
+      <find>&quot;</find>
+      <find>&quot;Male&quot;</find>
+      <find>print</find>
+      <find>[^\w\n-]</find>
+      <find>Anssi\n</find>
+      <find>get_names_by_name_len</find>
+      <find>Katri</find>
+      <find>Anssi</find>
+      <find>Katri&quot;</find>
+      <find>Katrine</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'M'</replace>
+      <replace>].lower() if</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/src/create_dict.py" />
+        <option value="$PROJECT_DIR$/src/delete_common.py" />
+        <option value="$PROJECT_DIR$/src/names.py" />
+        <option value="$PROJECT_DIR$/src/test,pt.py" />
+        <option value="$PROJECT_DIR$/src/ml_train.py.ipynb" />
+        <option value="$PROJECT_DIR$/env/ending.py" />
+        <option value="$PROJECT_DIR$/src/ending.py" />
+        <option value="$PROJECT_DIR$/src/male.txt" />
+        <option value="$PROJECT_DIR$/src/female.txt" />
+        <option value="$PROJECT_DIR$/src/scrape_names.py" />
+        <option value="$PROJECT_DIR$/src/ml.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/gender_predictor.py" />
+        <option value="$PROJECT_DIR$/src/result_joni.csv" />
+        <option value="$PROJECT_DIR$/src/howitworks.py" />
+        <option value="$PROJECT_DIR$/src/predict2xlsx.py" />
+        <option value="$PROJECT_DIR$/src/test.py" />
+        <option value="$PROJECT_DIR$/src/csvpredictor.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="426" />
+    <option name="y" value="77" />
+    <option name="width" value="807" />
+    <option name="height" value="595" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FinnishName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinnishName" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinnishName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinnishName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/howitworks.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\YevheniiHyzyla\Desktop\Upwork\FinnishName\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/howitworks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\YevheniiHyzyla\Desktop\Upwork\FinnishName\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FinnishName" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41fc1e9-4b1e-4b78-a061-6dc5720060e3" name="Default" comment="" />
+      <created>1504379672642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504379672642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20499243" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4057971" sideWeight="0.506006" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4057971" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31239936" sideWeight="0.4955357" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18898809" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36070853" sideWeight="0.5029762" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4057971" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31239936" sideWeight="0.4955357" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993559" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="149" column="21" lean-forward="true" selection-start-line="149" selection-start-column="21" selection-end-line="149" selection-end-column="21" />
+          <folding>
+            <element signature="e#260#3371#0" expanded="false" />
+            <element signature="e#288#343#0" expanded="false" />
+            <element signature="e#402#686#0" expanded="false" />
+            <element signature="e#402#520#1" expanded="false" />
+            <element signature="e#586#660#0" expanded="false" />
+            <element signature="e#748#1379#0" expanded="false" />
+            <element signature="e#748#836#0" expanded="false" />
+            <element signature="e#1005#1061#0" expanded="false" />
+            <element signature="e#1417#1647#0" expanded="false" />
+            <element signature="e#1486#1647#0" expanded="false" />
+            <element signature="e#1507#1646#0" expanded="false" />
+            <element signature="e#1736#2331#0" expanded="false" />
+            <element signature="e#1964#2032#0" expanded="false" />
+            <element signature="e#2391#2671#0" expanded="false" />
+            <element signature="e#2733#2903#0" expanded="false" />
+            <element signature="e#2940#3173#0" expanded="false" />
+            <element signature="e#3477#3771#0" expanded="false" />
+            <element signature="e#3828#4148#0" expanded="false" />
+            <element signature="e#4201#4314#0" expanded="false" />
+            <element signature="e#5552#5782#0" expanded="false" />
+            <element signature="e#5822#5984#0" expanded="false" />
+            <element signature="e#6110#6283#0" expanded="false" />
+            <element signature="e#6384#6523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predict2xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#295#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="149" column="42" lean-forward="false" selection-start-line="149" selection-start-column="42" selection-end-line="149" selection-end-column="42" />
+          <folding>
+            <element signature="e#260#3371#0" expanded="false" />
+            <element signature="e#288#343#0" expanded="false" />
+            <element signature="e#402#686#0" expanded="false" />
+            <element signature="e#402#520#1" expanded="false" />
+            <element signature="e#586#660#0" expanded="false" />
+            <element signature="e#748#1379#0" expanded="false" />
+            <element signature="e#748#836#0" expanded="false" />
+            <element signature="e#1005#1061#0" expanded="false" />
+            <element signature="e#1417#1647#0" expanded="false" />
+            <element signature="e#1486#1647#0" expanded="false" />
+            <element signature="e#1507#1646#0" expanded="false" />
+            <element signature="e#1736#2331#0" expanded="false" />
+            <element signature="e#1964#2032#0" expanded="false" />
+            <element signature="e#2391#2671#0" expanded="false" />
+            <element signature="e#2733#2903#0" expanded="false" />
+            <element signature="e#2940#3173#0" expanded="false" />
+            <element signature="e#3477#3771#0" expanded="false" />
+            <element signature="e#3828#4148#0" expanded="false" />
+            <element signature="e#4201#4314#0" expanded="false" />
+            <element signature="e#5552#5782#0" expanded="false" />
+            <element signature="e#5822#5984#0" expanded="false" />
+            <element signature="e#6110#6283#0" expanded="false" />
+            <element signature="e#6384#6523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="42" lean-forward="false" selection-start-line="149" selection-start-column="42" selection-end-line="149" selection-end-column="42" />
+          <folding>
+            <element signature="e#260#3371#0" expanded="false" />
+            <element signature="e#288#343#0" expanded="false" />
+            <element signature="e#402#686#0" expanded="false" />
+            <element signature="e#402#520#1" expanded="false" />
+            <element signature="e#586#660#0" expanded="false" />
+            <element signature="e#748#1379#0" expanded="false" />
+            <element signature="e#748#836#0" expanded="false" />
+            <element signature="e#1005#1061#0" expanded="false" />
+            <element signature="e#1417#1647#0" expanded="false" />
+            <element signature="e#1486#1647#0" expanded="false" />
+            <element signature="e#1507#1646#0" expanded="false" />
+            <element signature="e#1736#2331#0" expanded="false" />
+            <element signature="e#1964#2032#0" expanded="false" />
+            <element signature="e#2391#2671#0" expanded="false" />
+            <element signature="e#2733#2903#0" expanded="false" />
+            <element signature="e#2940#3173#0" expanded="false" />
+            <element signature="e#3477#3771#0" expanded="false" />
+            <element signature="e#3828#4148#0" expanded="false" />
+            <element signature="e#4201#4314#0" expanded="false" />
+            <element signature="e#5552#5782#0" expanded="false" />
+            <element signature="e#5822#5984#0" expanded="false" />
+            <element signature="e#6110#6283#0" expanded="false" />
+            <element signature="e#6384#6523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predict2xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#295#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#260#3371#0" expanded="false" />
+            <element signature="e#288#343#0" expanded="false" />
+            <element signature="e#402#686#0" expanded="false" />
+            <element signature="e#402#520#1" expanded="false" />
+            <element signature="e#586#660#0" expanded="false" />
+            <element signature="e#748#1379#0" expanded="false" />
+            <element signature="e#748#836#0" expanded="false" />
+            <element signature="e#1005#1061#0" expanded="false" />
+            <element signature="e#1417#1647#0" expanded="false" />
+            <element signature="e#1486#1647#0" expanded="false" />
+            <element signature="e#1507#1646#0" expanded="false" />
+            <element signature="e#1736#2331#0" expanded="false" />
+            <element signature="e#1964#2032#0" expanded="false" />
+            <element signature="e#2391#2671#0" expanded="false" />
+            <element signature="e#2733#2903#0" expanded="false" />
+            <element signature="e#2940#3173#0" expanded="false" />
+            <element signature="e#3477#3771#0" expanded="false" />
+            <element signature="e#3828#4148#0" expanded="false" />
+            <element signature="e#4201#4314#0" expanded="false" />
+            <element signature="e#5552#5782#0" expanded="false" />
+            <element signature="e#5822#5984#0" expanded="false" />
+            <element signature="e#6110#6283#0" expanded="false" />
+            <element signature="e#6384#6523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predict2xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#295#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="178" column="48" lean-forward="false" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
+          <folding>
+            <element signature="e#260#3371#0" expanded="false" />
+            <element signature="e#288#343#0" expanded="false" />
+            <element signature="e#402#686#0" expanded="false" />
+            <element signature="e#402#520#1" expanded="false" />
+            <element signature="e#586#660#0" expanded="false" />
+            <element signature="e#748#1379#0" expanded="false" />
+            <element signature="e#748#836#0" expanded="false" />
+            <element signature="e#1005#1061#0" expanded="false" />
+            <element signature="e#1417#1647#0" expanded="false" />
+            <element signature="e#1486#1647#0" expanded="false" />
+            <element signature="e#1507#1646#0" expanded="false" />
+            <element signature="e#1736#2331#0" expanded="false" />
+            <element signature="e#1964#2032#0" expanded="false" />
+            <element signature="e#2391#2671#0" expanded="false" />
+            <element signature="e#2733#2903#0" expanded="false" />
+            <element signature="e#2940#3173#0" expanded="false" />
+            <element signature="e#3477#3771#0" expanded="false" />
+            <element signature="e#3828#4148#0" expanded="false" />
+            <element signature="e#4201#4314#0" expanded="false" />
+            <element signature="e#5552#5782#0" expanded="false" />
+            <element signature="e#5822#5984#0" expanded="false" />
+            <element signature="e#6110#6283#0" expanded="false" />
+            <element signature="e#6384#6523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3026">
+          <caret line="178" column="48" lean-forward="false" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
+          <folding>
+            <element signature="e#260#3371#0" expanded="false" />
+            <element signature="e#288#343#0" expanded="false" />
+            <element signature="e#402#686#0" expanded="false" />
+            <element signature="e#402#520#1" expanded="false" />
+            <element signature="e#586#660#0" expanded="false" />
+            <element signature="e#748#1379#0" expanded="false" />
+            <element signature="e#748#836#0" expanded="false" />
+            <element signature="e#1005#1061#0" expanded="false" />
+            <element signature="e#1417#1647#0" expanded="false" />
+            <element signature="e#1486#1647#0" expanded="false" />
+            <element signature="e#1507#1646#0" expanded="false" />
+            <element signature="e#1736#2331#0" expanded="false" />
+            <element signature="e#1964#2032#0" expanded="false" />
+            <element signature="e#2391#2671#0" expanded="false" />
+            <element signature="e#2733#2903#0" expanded="false" />
+            <element signature="e#2940#3173#0" expanded="false" />
+            <element signature="e#3477#3771#0" expanded="false" />
+            <element signature="e#3828#4148#0" expanded="false" />
+            <element signature="e#4201#4314#0" expanded="false" />
+            <element signature="e#5552#5782#0" expanded="false" />
+            <element signature="e#5822#5984#0" expanded="false" />
+            <element signature="e#6110#6283#0" expanded="false" />
+            <element signature="e#6384#6523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py" />
+    <entry file="file://$PROJECT_DIR$/src/ml.py" />
+    <entry file="file://$PROJECT_DIR$/src/scrape_names.py" />
+    <entry file="file://$PROJECT_DIR$/src/male.txt" />
+    <entry file="file://$PROJECT_DIR$/src/female.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py" />
+    <entry file="file://$PROJECT_DIR$/src/ml.py" />
+    <entry file="file://$PROJECT_DIR$/src/scrape_names.py" />
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py" />
+    <entry file="file://$PROJECT_DIR$/src/scrape_names.py" />
+    <entry file="file://$PROJECT_DIR$/src/famale_names.txt" />
+    <entry file="file://$PROJECT_DIR$/src/female_names.txt" />
+    <entry file="file://$PROJECT_DIR$/src/male_names.txt" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/src/create_dict.py" />
+    <entry file="file://$PROJECT_DIR$/src/delete_common.py" />
+    <entry file="file://$PROJECT_DIR$/src/preprocess_names.py" />
+    <entry file="file://$PROJECT_DIR$/src/names.py" />
+    <entry file="file://$PROJECT_DIR$/src/ml_train.py.ipynb" />
+    <entry file="file://$PROJECT_DIR$/env/ending.py" />
+    <entry file="file://$PROJECT_DIR$/src/ending.py" />
+    <entry file="file://$PROJECT_DIR$/src/female.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ml.py" />
+    <entry file="file://$PROJECT_DIR$/src/scrape_names.py" />
+    <entry file="file://$PROJECT_DIR$/src/main.py" />
+    <entry file="file://$PROJECT_DIR$/src/male.txt" />
+    <entry file="file://$PROJECT_DIR$/result.csv" />
+    <entry file="file://$PROJECT_DIR$/src/result_test.csv" />
+    <entry file="file://$PROJECT_DIR$/src/result_joni.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/howitworks.py" />
+    <entry file="file://$PROJECT_DIR$/src/predict2xlsx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#295#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gender_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding>
+            <element signature="e#260#3371#0" expanded="false" />
+            <element signature="e#288#343#0" expanded="false" />
+            <element signature="e#402#686#0" expanded="false" />
+            <element signature="e#402#520#1" expanded="false" />
+            <element signature="e#586#660#0" expanded="false" />
+            <element signature="e#748#1379#0" expanded="false" />
+            <element signature="e#748#836#0" expanded="false" />
+            <element signature="e#1005#1061#0" expanded="false" />
+            <element signature="e#1417#1647#0" expanded="false" />
+            <element signature="e#1486#1647#0" expanded="false" />
+            <element signature="e#1507#1646#0" expanded="false" />
+            <element signature="e#1736#2331#0" expanded="false" />
+            <element signature="e#1964#2032#0" expanded="false" />
+            <element signature="e#2391#2671#0" expanded="false" />
+            <element signature="e#2733#2903#0" expanded="false" />
+            <element signature="e#2940#3173#0" expanded="false" />
+            <element signature="e#3477#3771#0" expanded="false" />
+            <element signature="e#3828#4148#0" expanded="false" />
+            <element signature="e#4201#4314#0" expanded="false" />
+            <element signature="e#5552#5782#0" expanded="false" />
+            <element signature="e#5822#5984#0" expanded="false" />
+            <element signature="e#6110#6283#0" expanded="false" />
+            <element signature="e#6384#6523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/all_37k_names.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csvpredictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
